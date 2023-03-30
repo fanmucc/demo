@@ -19,3 +19,7 @@
 ## git reset 1
 
 ## git reset 1 nocommit
+
+## git reset 2
+
+## git reset 3-
