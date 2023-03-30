@@ -15,3 +15,5 @@
 ## git reset
 
 ## Git 撤销 1
+
+## GIT 撤销 2
