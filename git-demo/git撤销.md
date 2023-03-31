@@ -23,3 +23,16 @@
 ## git reset 2
 
 ## git reset 3-
+
+Auto-merging git-demo/git 撤销.md
+CONFLICT (content): Merge conflict in git-demo/git 撤销.md
+error: could not revert 3a1687a... ## git reset 1
+hint: After resolving the conflicts, mark them with
+hint: "git add/rm <pathspec>", then run
+hint: "git revert --continue".
+hint: You can instead skip this commit with "git revert --skip".
+hint: To abort and get back to the state before "git revert",
+hint: run "git revert --abort".
+
+restore
+staged
